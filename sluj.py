@@ -5,8 +5,10 @@ old = []
 new = []
 for i in str_num:
     k = i.split()
-    #print(f'RewriteRule catalog/52/{k[0]}/$ https://seacomm.ru/catalog/rechnaya-radiostanciya/{k[1]}/ [R=301,L]')
-    old.append(f'https://seacomm.ru/catalog/52/{k[0]}/')
-    #new.append(f'https://seacomm.ru/catalog/rechnaya-radiostanciya/{k[1]}/')
+    s = k[0][20:]
+    #print(s)
+    #print(f'RewriteRule {s}$ {k[1]} [R=301,L]')
+    old.append(k[0])
+    new.append(k[1])
 print(old)
 print(new)

@@ -1272,8 +1272,19 @@ list_18 = [
 
 list_111 = ['https://seacomm.ru/catalog/rechnaya-radiostanciya/92/', 'https://seacomm.ru/catalog/rechnaya-radiostanciya/15162/', 'https://seacomm.ru/catalog/rechnaya-radiostanciya/90/', 'https://seacomm.ru/catalog/rechnaya-radiostanciya/15161/', 'https://seacomm.ru/catalog/rechnaya-radiostanciya/10798/', 'https://seacomm.ru/catalog/rechnaya-radiostanciya/91/', 'https://seacomm.ru/catalog/rechnaya-radiostanciya/9542/', 'https://seacomm.ru/catalog/rechnaya-radiostanciya/10887/', 'https://seacomm.ru/catalog/rechnaya-radiostanciya/10891/']
 
+
+list_19 = [
+    'https://landcomm.ru/catalog/311/3747/', 'https://landcomm.ru/catalog/311/3748/', 'https://landcomm.ru/catalog/333/15415/', 'https://landcomm.ru/catalog/308/4569/', 'https://landcomm.ru/catalog/308/4570/', 'https://landcomm.ru/catalog/308/4571/', 'https://landcomm.ru/catalog/354/15233/', 'https://landcomm.ru/catalog/308/4572/', 'https://landcomm.ru/catalog/488/', 'https://landcomm.ru/catalog/354/15232/', 'https://landcomm.ru/catalog/333/15418/', 'https://landcomm.ru/catalog/333/11327/', 'https://landcomm.ru/catalog/333/15424/', 'https://landcomm.ru/catalog/333/15423/', 'https://landcomm.ru/catalog/333/15434/', 'https://landcomm.ru/catalog/333/3994/', 'https://landcomm.ru/catalog/333/15428/', 'https://landcomm.ru/catalog/335/8714/', 'https://landcomm.ru/catalog/335/8713/', 'https://landcomm.ru/catalog/541/', 'https://landcomm.ru/catalog/333/15432/', 'https://landcomm.ru/catalog/333/11359/', 'https://landcomm.ru/catalog/333/11360/', 'https://landcomm.ru/catalog/308/5969/'
+]
+
+list_20 = [
+    'https://landcomm.ru/catalog/kupit-avtomobilnuyu-raciyu/motorola-dm1600/', 'https://landcomm.ru/catalog/kupit-avtomobilnuyu-raciyu/motorola-dm2600/', 'https://landcomm.ru/catalog/kupit-avtomobilnuyu-raciyu/argut-a-550/', 'https://landcomm.ru/catalog/kupit-raciyu/hytera-tc-508/', 'https://landcomm.ru/catalog/kupit-raciyu/hytera-tc-518/', 'https://landcomm.ru/catalog/kupit-raciyu/hytera-tc-580/', 'https://landcomm.ru/catalog/kupit-raciyu/icom-ic-f4400ds/', 'https://landcomm.ru/catalog/kupit-raciyu/hytera-tc-700/', 'https://landcomm.ru/catalog/676/', 'https://landcomm.ru/catalog/kupit-raciyu/icom-ic-f4400d/', 'https://landcomm.ru/catalog/kupit-avtomobilnuyu-raciyu/argut-a-703-vhf/', 'https://landcomm.ru/catalog/kupit-raciyu/motorola-xt460/', 'https://landcomm.ru/catalog/kupit-avtomobilnuyu-raciyu/argut-a-703-uhf/', 'https://landcomm.ru/catalog/kupit-avtomobilnuyu-raciyu/argut-a-703-vhf/', 'https://landcomm.ru/catalog/retranslyatory/argut-dr50-dmr-uhf/', 'https://landcomm.ru/catalog/kupit-raciyu/yaesu-vx-6r/', 'https://landcomm.ru/catalog/kupit-avtomobilnuyu-raciyu/argut-a-701-vhf/', 'https://landcomm.ru/catalog/kv-transivery/alinco-dx-sr-09/', 'https://landcomm.ru/catalog/kv-transivery/alinco-dx-sr-08/', 'https://landcomm.ru/catalog/675/', 'https://landcomm.ru/catalog/retranslyatory/argut-dr50-dmr-vhf/', 'https://landcomm.ru/catalog/kupit-raciyu/alinco-dj-axd1/', 'https://landcomm.ru/catalog/kupit-raciyu/alinco-dj-axd4/', 'https://landcomm.ru/catalog/kupit-raciyu/bizon-kt85/'
+]
+
+
+
 count = 0
-for i in list_18:
+for i in list_20:
     if response_code(i) != 200:
         print(i, end=' - ')
         print(response_code(i))
