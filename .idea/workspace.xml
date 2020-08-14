@@ -12,9 +12,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b1807c8b-b2e1-4a17-9f65-18f0e7d4c673" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sluj.py" beforeDir="false" afterPath="$PROJECT_DIR$/sluj.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sluj.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sluj.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_3380_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_3380_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study_height.py" beforeDir="false" afterPath="$PROJECT_DIR$/study_height.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +41,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../python" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\m.kokushin\PycharmProjects\pythonProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.study_height (1)">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,8 +177,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sluj" />
         <item itemvalue="Python.study_height (1)" />
+        <item itemvalue="Python.sluj" />
         <item itemvalue="Python.study_height" />
         <item itemvalue="Python.req_line" />
         <item itemvalue="Python.reg_st" />
@@ -186,6 +186,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\m.kokushin\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b1807c8b-b2e1-4a17-9f65-18f0e7d4c673" name="Default Changelist" comment="" />
@@ -221,47 +224,55 @@
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
     <state x="-953" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1596804316527" />
+    <state x="-1274" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1597405034837">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1274" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1597405034837" />
     <state x="-705" y="210" key="FileChooserDialogImpl" timestamp="1597317229485">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
     <state x="-705" y="210" key="FileChooserDialogImpl/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1597317229485" />
     <state x="929" y="300" key="FileChooserDialogImpl/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1596107536352" />
-    <state x="-815" y="262" key="Github.ShareDialog" timestamp="1596806682791">
+    <state x="-815" y="262" key="Github.ShareDialog" timestamp="1597405030449">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state x="-815" y="262" key="Github.ShareDialog/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1596806682791" />
+    <state x="-815" y="262" key="Github.ShareDialog/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1597405030449" />
     <state x="-906" y="69" key="Github.UntrackedFilesDialog" timestamp="1596806701699">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
     <state x="-906" y="69" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1596806701699" />
-    <state width="1345" height="225" key="GridCell.Tab.0.bottom" timestamp="1597327889680">
+    <state width="1345" height="225" key="GridCell.Tab.0.bottom" timestamp="1597406300085">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="225" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1597327889680" />
+    <state width="1345" height="225" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1597406300085" />
     <state width="1362" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1596186320313" />
-    <state width="1345" height="225" key="GridCell.Tab.0.center" timestamp="1597327889679">
+    <state width="1345" height="225" key="GridCell.Tab.0.center" timestamp="1597406300085">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="225" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1597327889679" />
+    <state width="1345" height="225" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1597406300085" />
     <state width="1362" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1596186320313" />
-    <state width="1345" height="225" key="GridCell.Tab.0.left" timestamp="1597327889679">
+    <state width="1345" height="225" key="GridCell.Tab.0.left" timestamp="1597406300085">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="225" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1597327889679" />
+    <state width="1345" height="225" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1597406300085" />
     <state width="1362" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1596186320313" />
-    <state width="1345" height="225" key="GridCell.Tab.0.right" timestamp="1597327889680">
+    <state width="1345" height="225" key="GridCell.Tab.0.right" timestamp="1597406300085">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="225" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1597327889680" />
+    <state width="1345" height="225" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1597406300085" />
     <state width="1362" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1596186320313" />
-    <state x="-1038" y="18" key="SettingsEditor" timestamp="1597301496667">
+    <state x="-1038" y="18" key="SettingsEditor" timestamp="1597404814053">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state x="-1038" y="18" key="SettingsEditor/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1597301496667" />
+    <state x="-1038" y="18" key="SettingsEditor/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1597404814053" />
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1596107545478" />
-    <state x="-1091" y="97" key="Vcs.Push.Dialog.v2" timestamp="1597326482027">
+    <state x="-1091" y="97" key="Vcs.Push.Dialog.v2" timestamp="1597404990250">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state x="-1091" y="97" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1597326482027" />
+    <state x="-1091" y="97" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1597404990250" />
+    <state x="-882" y="265" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597404867415">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-882" y="265" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1597404867415" />
   </component>
 </project>
